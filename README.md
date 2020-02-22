@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei1.png
 https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei2.png
 ![Gwei.cz 2](https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei2.png)
 
+### Varianta 3
+https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei3.png
+![Gwei.cz 3](https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei3.png)
+
 
 ## dCZK
 https://raw.githubusercontent.com/gweicz/brand/master/logo/dczk.png
