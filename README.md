@@ -16,3 +16,7 @@ https://raw.githubusercontent.com/gweicz/brand/master/logo/gwei2.png
 ## dCZK
 https://raw.githubusercontent.com/gweicz/brand/master/logo/dczk.png
 ![dCZK](https://raw.githubusercontent.com/gweicz/brand/master/logo/dczk.png)
+
+
+---
+Autor: @coinmandeer
